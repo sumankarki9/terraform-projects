@@ -1,6 +1,6 @@
-I have hosted simple static website using Terraform in aws S3.
+# Hosting a Static Website on AWS S3 using Terraform
 
-`step:-`
+`## Steps to Deploy`
  - `Provider Configuration:` specifies AWS and randdom providers.
  - `Bucket Creation:` Creates an S3 bucket with a unique name.
  - `Public Access:` Configures public access to the bucket
