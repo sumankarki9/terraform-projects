@@ -7,4 +7,4 @@
  - `File Uploads:` Uploads the index.html and error.html files to the bucket.
  - `website Endpoint:` outputs the URL of the static website
 
- ![preview img](/preview.png)
+ ![preview img](preview.png)
