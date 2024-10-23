@@ -1,5 +1,4 @@
-#Terraform VPC, Subnets, and EC2 Instances
-Resources using Count 
+# Terraform VPC, Subnets, and EC2 Instances using Count 
 
 `VPC:` Creates a virtual private cloud with CIDR block 10.0.0.0/16.
 
