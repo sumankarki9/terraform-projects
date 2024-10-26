@@ -1,0 +1,8 @@
+users:
+  - username: vibek
+    roles: [AmazonEC2ReadOnlyAccess]
+  - username: ram
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: alex
+    roles: [AmazonEC2ReadOnlyAccess, AmazonS3ReadOnlyAcces] 
+    
