@@ -1,7 +1,7 @@
-# AWS IAM Management
+# AWS IAM Management Using Terraform
 `task:`
-provide user and roles info via YAML file
-Read the YAML file and process data
-Create IAM users
-Generate Passwords for the users
-Attach policy/rolels to each users
+1.provide user and roles info via YAML file
+2.Read the YAML file and process data
+3.Create IAM users
+4.Generate Passwords for the users
+5.Attach policy/rolels to each users
