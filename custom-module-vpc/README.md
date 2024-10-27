@@ -8,4 +8,3 @@ This Terraform configuration deploys a VPC  using the Custom Terraform AWS modul
 2. **Creates public and private subnets**  
 3. **Creates an INternet Gateway for public Subnets**  
 4. **Sets up route for public subnets**  
-- test
